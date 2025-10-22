@@ -107,7 +107,7 @@ If you use this dataset in your research, please cite:
 
 > **AI-Enhanced Digital Twin Modeling of Cell-Level Lithium-Ion Batteries via Cross-Task Attention-Based Multi-Task Learning**  
 > L. Wang *et al.*  
-> *IEEE Transactions on Industrial Informatics (TII)*, under review, 2025.
+> *IEEE Transactions on Industrial Informatics (TII)*, accept, 2025.
 
 **BibTeX**
 ```bibtex
@@ -116,7 +116,7 @@ If you use this dataset in your research, please cite:
   author  = {Lei Wang and Others},
   journal = {IEEE Transactions on Industrial Informatics},
   year    = {2025},
-  note    = {Under Review}
+  note    = {Accept}
 }
 ```
 
